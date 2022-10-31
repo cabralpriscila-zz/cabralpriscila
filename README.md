@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=priscilacabral_&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<a href="https://app.daily.dev/cabralpriscila"><img src="https://api.daily.dev/devcards/1031f1288f3e4c6ba450a93a9af71f97.png?r=dz0" width="400" alt="Priscila Cabral's Dev Card"/></a>
-
 <!--
 **cabralpriscila/cabralpriscila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
