@@ -2,7 +2,7 @@
 <hr>
 <img align='left' src="https://user-images.githubusercontent.com/101571277/199248107-38d08475-53e3-4a8e-bad3-0c6a7f96ce96.png" width="400">
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🙋‍♀️&nbsp;About Me
 
 💻 &nbsp;I'm a software engineer at <a href="http://www.capim.com.br">@Capim</a> 🌱 \
 🎓&nbsp;I graduated form IESB, Brazil (Game Development, Batch of 2016).\
