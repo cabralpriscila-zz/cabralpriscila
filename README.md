@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;I'm a software engineer at <a href="http://www.capim.com.br">@Capim</a> 🌱 \
-🎓&nbsp;I graduated form IESB, Brasil (Game Development, Batch of 2016).\
+🎓&nbsp;I graduated form IESB, Brazil (Game Development, Batch of 2016).\
 💡&nbsp;I'm on track for learning more about Web Development.\
 🎸&nbsp;In my free time, I play guitar as my hobby.\
 ✉️ &nbsp;You can email me at priscilacabral.dev@gmail.com. I'll try to respond as soon as possible!
