@@ -34,3 +34,6 @@
   🏒&nbsp;Last but not least: <strong><a href="https://www.nhl.com/jets">GO JETS!</a></strong>
   <p><img src="https://media.giphy.com/media/5aY5aPfx9gOg80N5oL/giphy.gif" width="100"></p>
 </div>
+
+<hr>
+<a href="https://app.daily.dev/cabralpriscila"><img src="https://api.daily.dev/devcards/1031f1288f3e4c6ba450a93a9af71f97.png?r=scd" width="400" alt="Priscila Cabral's Dev Card"/></a>
