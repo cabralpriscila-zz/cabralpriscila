@@ -4,7 +4,7 @@
 
 ### 🙋‍♀️&nbsp;About Me
 
-💻 &nbsp;I'm a software engineer at <a href="http://www.capim.com.br">@Capim</a> 🌱 \
+💻 &nbsp;I'm a software engineer \
 🎓&nbsp;I graduated from IESB, Brazil (Game Development, Batch of 2016).\
 💡&nbsp;I'm on track for learning more about Web Development.\
 🎸&nbsp;In my free time, I play guitar as my hobby.\
